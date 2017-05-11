@@ -11,8 +11,12 @@ public class TestClass {
 		System.out.println("TEST*********************************");
 		System.out.println("yang");
 		System.out.println("TEST*********************************");
+<<<<<<< HEAD
 		System.out.println("MinSeong");
 		System.out.println("TEST*********************************");
 		
+=======
+		System.out.println("joonsun");
+>>>>>>> 231de5f9d39f86ade8f126ae19ac533f358390c5
 	}
 }
