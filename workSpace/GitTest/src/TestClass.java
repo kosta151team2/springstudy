@@ -11,5 +11,8 @@ public class TestClass {
 		System.out.println("TEST*********************************");
 		System.out.println("yang");
 		System.out.println("TEST*********************************");
+		System.out.println("MinSeong");
+		System.out.println("TEST*********************************");
+		
 	}
 }
