@@ -18,5 +18,6 @@ public class TestClass {
 
 		System.out.println("joonsun");
 		System.out.println("dameun");
+		System.out.println("yijoon");
 	}
 }
